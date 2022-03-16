@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NetworkMap_nikonov</string>
+    <string name="open">Открыть</string>
+    <string name="add">Создать</string>
+    <string name="history">История входов</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_map">Name map</string>
+    <string name="name_map2">Name map2</string>
+    <string name="add2">Add</string>
+    <string name="cancel2">Cancel</string>
+    <string name="Back">Назад</string>
+
+
+</resources>
